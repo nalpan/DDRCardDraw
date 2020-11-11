@@ -129,7 +129,6 @@
           "description": "e.g. expert/challenge"
         },
         "lvl": {
-          "type": "integer"
         },
         "step": {
           "type": "number"
